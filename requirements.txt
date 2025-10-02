@@ -1,0 +1,11 @@
+# FastAPI Framework - Modern, hızlı web framework
+fastapi==0.109.0
+
+# Uvicorn - ASGI server (FastAPI'yi çalıştırmak için gerekli)
+uvicorn[standard]==0.27.0
+
+# Pydantic - Veri validasyonu için (FastAPI ile birlikte kullanılır)
+pydantic==2.5.3
+
+# Python-multipart - Form verisi işlemek için (opsiyonel)
+python-multipart==0.0.6
